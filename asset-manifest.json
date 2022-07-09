@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-portofolio/static/css/main.22cbd7e8.css",
+    "main.js": "/my-portofolio/static/js/main.32f89471.js",
+    "static/media/netflix-homepage-clone.png": "/my-portofolio/static/media/netflix-homepage-clone.1b3ce55750b3a3515cf1.png",
+    "static/media/restaurant-project.png": "/my-portofolio/static/media/restaurant-project.c8b9c9ba83ab78242927.png",
+    "static/media/store-project.png": "/my-portofolio/static/media/store-project.0b975b6d924bd4a33b0c.png",
+    "static/media/wordpress.png": "/my-portofolio/static/media/wordpress.f1c9b08e0028ba5ed7be.png",
+    "static/media/me.jpg": "/my-portofolio/static/media/me.e281a531ef84ad612a96.jpg",
+    "static/media/rock-paper-scisor.png": "/my-portofolio/static/media/rock-paper-scisor.fbde1e6c37f4c69c034c.png",
+    "static/media/presentation.jpg": "/my-portofolio/static/media/presentation.35c23a97aeff45a77dfa.jpg",
+    "static/media/sql.png": "/my-portofolio/static/media/sql.85fb38d6773862e917f4.png",
+    "static/media/php.png": "/my-portofolio/static/media/php.9e4fe8e6c56ca39a9427.png",
+    "static/media/budget-calculator.png": "/my-portofolio/static/media/budget-calculator.a0eadb5e381e0d551268.png",
+    "static/media/react.png": "/my-portofolio/static/media/react.09df55c21bdb35711dd0.png",
+    "static/media/js.png": "/my-portofolio/static/media/js.1ed3658cc0981b95f333.png",
+    "static/media/to-do-list.png": "/my-portofolio/static/media/to-do-list.1f5b4258be9c39baec96.png",
+    "static/media/bootstrap.png": "/my-portofolio/static/media/bootstrap.87b2b41e1d703d5fc6c1.png",
+    "static/media/css.png": "/my-portofolio/static/media/css.84de5dab5fab27f4161c.png",
+    "static/media/sass.png": "/my-portofolio/static/media/sass.6747d5c68a381e29fc69.png",
+    "static/media/jquery.png": "/my-portofolio/static/media/jquery.20cb5b8b93c88f414896.png",
+    "index.html": "/my-portofolio/index.html",
+    "main.22cbd7e8.css.map": "/my-portofolio/static/css/main.22cbd7e8.css.map",
+    "main.32f89471.js.map": "/my-portofolio/static/js/main.32f89471.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cbd7e8.css",
+    "static/js/main.32f89471.js"
+  ]
+}
