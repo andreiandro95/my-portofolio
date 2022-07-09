@@ -1,0 +1,92 @@
+.contact-wrapper{
+    padding: 0 15px;
+    margin: 30px auto;
+    width: 100%;
+    box-sizing: border-box;
+    .title{
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 20px;
+        color: rgba(59, 148, 4, 1);
+    }
+    .contact-form{
+        width: 100%;
+        label{
+            display: block;
+            font-weight: 700;
+            margin: 10px 0;
+        }
+        input{
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px solid rgba(4, 59, 148);
+            padding: 10px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+        textarea{
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px solid rgba(4, 59, 148);
+            padding: 10px;
+            border-radius: 10px;
+            font-size: 14px;
+        }
+        .submit{
+            margin-top: 10px;
+            text-transform: uppercase;
+            &:hover{
+                cursor: pointer;
+            }
+        }
+    }
+    .information-wrapper{
+        .links{
+            width: 60%;
+            margin: 20px auto;
+            display: flex;
+            justify-content: space-around;
+            div{
+                a{
+                    font-size: 30px;
+                    color: rgba(4, 59, 148);
+                }    
+            }
+        }
+        .my-email{
+            text-align: center;
+            font-size: 16px;
+            svg{
+                font-size: 30px;
+                color: rgba(4, 59, 148);
+                vertical-align: middle;
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .contact-wrapper{
+        max-width: 1200px;
+        position: relative;
+        .contact-form{
+            width: 50%;
+            display: inline-block;
+        }
+        .information-wrapper{
+            width: 50%;
+            display: inline-block;
+            float: right;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            .links{
+                display: block;
+                div{
+                    text-align: center;
+                    margin-bottom: 50px;
+                }
+            }
+        }
+    }
+}

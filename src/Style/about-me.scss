@@ -1,0 +1,71 @@
+.about-me-wrapper{
+    padding: 0 15px;
+    margin: 30px auto;
+    width: 100%;
+    box-sizing: border-box;
+    .title{
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 20px;
+        color: rgba(59, 148, 4, 1);
+    }
+    .about-me{
+        .image{
+            text-align: center;
+            width: 100px;
+            margin: auto;
+            img{
+                width: 100%;
+                border-radius: 20px;
+            }
+        }
+        .text{
+            span{
+                display: block;
+                text-align: center;
+                font-weight: 700;
+            }
+            .to-cv{
+                margin-top: 20px;
+                .cv{
+                    a{
+                        text-decoration: none;
+                        color: rgba(4, 59, 148);
+                        padding: 7px 15px;
+                        border: 1px solid rgba(4, 59, 148);
+                        border-radius: 20px;
+                        &:hover{
+                            background-color: rgba(4, 59, 148);
+                            color: white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    .about-me-wrapper{
+        max-width: 1200px;
+        .title{
+            font-size: 26px;
+        }
+        .about-me{
+            display: flex;
+            align-items: center;
+            .image{
+                width: 200px;
+                img{
+                    width: 200px;
+                }
+            }
+            .text{
+                padding-left: 20px;
+                span{
+                    text-align: left;
+                }
+            }
+        }
+    }
+}

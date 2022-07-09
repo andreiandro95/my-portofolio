@@ -1,0 +1,65 @@
+.about-me-wrapper {
+  padding: 0 15px;
+  margin: 30px auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+.about-me-wrapper .title {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 20px;
+  color: rgb(59, 148, 4);
+}
+.about-me-wrapper .about-me .image {
+  text-align: center;
+  width: 100px;
+  margin: auto;
+}
+.about-me-wrapper .about-me .image img {
+  width: 100%;
+  border-radius: 20px;
+}
+.about-me-wrapper .about-me .text span {
+  display: block;
+  text-align: center;
+  font-weight: 700;
+}
+.about-me-wrapper .about-me .text .to-cv {
+  margin-top: 20px;
+}
+.about-me-wrapper .about-me .text .to-cv .cv a {
+  text-decoration: none;
+  color: rgb(4, 59, 148);
+  padding: 7px 15px;
+  border: 1px solid rgb(4, 59, 148);
+  border-radius: 20px;
+}
+.about-me-wrapper .about-me .text .to-cv .cv a:hover {
+  background-color: rgb(4, 59, 148);
+  color: white;
+}
+
+@media only screen and (min-width: 800px) {
+  .about-me-wrapper {
+    max-width: 1200px;
+  }
+  .about-me-wrapper .title {
+    font-size: 26px;
+  }
+  .about-me-wrapper .about-me {
+    display: flex;
+    align-items: center;
+  }
+  .about-me-wrapper .about-me .image {
+    width: 200px;
+  }
+  .about-me-wrapper .about-me .image img {
+    width: 200px;
+  }
+  .about-me-wrapper .about-me .text {
+    padding-left: 20px;
+  }
+  .about-me-wrapper .about-me .text span {
+    text-align: left;
+  }
+}/*# sourceMappingURL=about-me.css.map */
