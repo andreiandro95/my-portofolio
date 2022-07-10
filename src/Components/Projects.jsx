@@ -7,6 +7,7 @@ import storeProject from "../Images/store-project.png";
 import rockPaperScisor from "../Images/rock-paper-scisor.png";
 import toDoList from "../Images/to-do-list.png";
 import budgetCalculator from "../Images/budget-calculator.png";
+import conferenceProject from "../Images/conference-project.jpg";
 
 const Projects = () => {
     return (
@@ -60,6 +61,14 @@ const Projects = () => {
                         <div className="to-code"><a href="https://github.com/andreiandro95/budget-calculator" title='code location' rel='noindex'> to githut</a></div>
                     </div>
                     <div className="project-name">budget calculator</div>
+                </div>
+                <div className="project">
+                    <img src={conferenceProject} alt="conference project poster" />
+                    <div className="site-information">
+                        <div className="to-site"><a href="https://andreiandro95.github.io/conference/index.html" title='site location' rel='noindex'> to site</a></div>
+                        <div className="to-code"><a href="https://github.com/andreiandro95/conference" title='code location' rel='noindex'> to githut</a></div>
+                    </div>
+                    <div className="project-name">conference project</div>
                 </div>
             </div>
         </div>
