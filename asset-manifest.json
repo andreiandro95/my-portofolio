@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/my-portofolio/static/css/main.22cbd7e8.css",
-    "main.js": "/my-portofolio/static/js/main.32f89471.js",
+    "main.js": "/my-portofolio/static/js/main.9fcd9ec5.js",
     "static/media/netflix-homepage-clone.png": "/my-portofolio/static/media/netflix-homepage-clone.1b3ce55750b3a3515cf1.png",
     "static/media/restaurant-project.png": "/my-portofolio/static/media/restaurant-project.c8b9c9ba83ab78242927.png",
     "static/media/store-project.png": "/my-portofolio/static/media/store-project.0b975b6d924bd4a33b0c.png",
     "static/media/wordpress.png": "/my-portofolio/static/media/wordpress.f1c9b08e0028ba5ed7be.png",
+    "static/media/conference-project.jpg": "/my-portofolio/static/media/conference-project.8bd3db916631f23e0909.jpg",
     "static/media/me.jpg": "/my-portofolio/static/media/me.e281a531ef84ad612a96.jpg",
     "static/media/rock-paper-scisor.png": "/my-portofolio/static/media/rock-paper-scisor.fbde1e6c37f4c69c034c.png",
     "static/media/presentation.jpg": "/my-portofolio/static/media/presentation.35c23a97aeff45a77dfa.jpg",
@@ -21,10 +22,10 @@
     "static/media/jquery.png": "/my-portofolio/static/media/jquery.20cb5b8b93c88f414896.png",
     "index.html": "/my-portofolio/index.html",
     "main.22cbd7e8.css.map": "/my-portofolio/static/css/main.22cbd7e8.css.map",
-    "main.32f89471.js.map": "/my-portofolio/static/js/main.32f89471.js.map"
+    "main.9fcd9ec5.js.map": "/my-portofolio/static/js/main.9fcd9ec5.js.map"
   },
   "entrypoints": [
     "static/css/main.22cbd7e8.css",
-    "static/js/main.32f89471.js"
+    "static/js/main.9fcd9ec5.js"
   ]
 }
