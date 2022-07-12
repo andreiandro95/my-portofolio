@@ -10,7 +10,7 @@ function PresentationHeader() {
                 <div className="short-presentation">My name is <span className='name'>Andrei Andronachi</span> and I am a Front-End Web Developer.</div>
                 <div className="buttons">
                     <a href="#about-me">About me</a>
-                    <a href="#contact">Contact</a>
+                    <a href="#contact-me">Contact</a>
                 </div>
             </div>
             <div className="image">

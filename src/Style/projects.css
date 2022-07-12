@@ -84,7 +84,7 @@
   }
   .projects-wrapper .projects-list .project:hover .site-information {
     display: flex;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.65);
     align-items: center;
     justify-content: center;
     flex-direction: column;

@@ -18,7 +18,6 @@ function Nav() {
                 </div>
                 <div className={`navigation-menu ${openMenuMobile ? 'active' : 'inactive'}`}>
                     <ul>
-                        <li><a href="#home">Home</a></li>
                         <li><a href="#about-me">About me</a></li>
                         <li><a href="#skills">Skills</a></li>
                         <li><a href="#projects">Projects</a></li>
